@@ -1,0 +1,70 @@
+header img{
+    height: 40px;
+    image-rendering: optimizeQuality;
+   object-fit: contain;
+   mix-blend-mode: color-burn;
+}
+header a{
+justify-content: space-between;
+text-decoration: none;
+margin: 10px;
+color: azure;
+}
+body{
+    background-image: url(OIP.jpeg);
+    background-size: cover;
+    image-orientation: from-image;
+    image-resolution: 5000px;
+}
+header button{
+    border: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    color: aliceblue;
+    background-color: blue;
+    position: absolute;
+    right: 0;
+    margin-top: -35px;
+}
+.box h5, h1, p{
+    color: aliceblue;
+    margin-top: 50px;
+}
+.box button{
+    border: 20px;
+    padding: 10px;
+    border-radius: 30px;
+    color:aliceblue;
+    background-color: blue;
+}
+.container h2, input, button{
+    display:block;
+    margin: 10px;
+
+}
+.container img{
+    height: 40px;
+    margin-left: 74px;
+}
+.container{
+    position: absolute;
+    right: 0;
+    margin-right: 100px;
+    background-color: aqua;
+    border-radius: 30px;
+    mix-blend-mode: color-burn;
+}
+.container div[class="ll"]{
+    margin-left:130px ;
+    margin-top: -38px;
+}
+.container button{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 74px;
+}
+.box{
+    margin-left: 200px;
+}
